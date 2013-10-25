@@ -1,0 +1,13 @@
+Hi Everyone,
+
+Welcome to the Oxford Code Lab coding course! I'm Tom and I'll be leading the course over the coming term. I'm very much looking forward to meeting you all and getting started on Tuesday.
+
+The course will be held at the Oxford Careers Service, 56 Banbury Rd on Tuesdays from 6.30-7.30pm (2nd-8th week). There will be pre-session office hours each week from 6pm, where the TAs and I will be on hand to go over any problems from the week's work. I'd encourage you to come at 6pm if you can!
+
+Before you arrive there are a few things you need to do to prepare. I've put together a set of instructions for you to work through, which you can find at http://code61.org/hmwk00. It's really important you have all this done before you arrive on Tuesday. It shouldn't take too long, but please start as soon as possible so that there's time to sort out any problems before next week.
+
+If there are any problems, please don't hesitate to get in touch. If you're no longer sure whether you want to take the course or don't think you will be able to give it enough time, please let me know as soon as possible - there are several people on the waiting list, who would happily take the place!
+
+See you Tuesday,
+
+Tom
