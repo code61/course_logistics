@@ -1,3 +1,6 @@
+A quick summary of the course aims, to be given at the beginning of the first session.
+
+
 ## What the point of this course?
 
 * not how to put up a basic website
@@ -5,6 +8,8 @@
     * those are great at what they do but you'll never be able to go further
 * aim of this course is to introduce you to the underlying technologies so you can build upon them
 * ... in particular in the course next term
+
+## What will you learn?
 
 * will learn HTML, CSS and git
 * you probably have an idea of what HTML and CSS are either from previous experience or the preparation exercises
@@ -15,9 +20,13 @@
         * or CEO with a CTO
     * allow you to contribute without bothering a coder
 
-* by end of term you will be in this position
-* know how to put up a basic website (hand coded)
-* know how to understand how other websites work and make tweaks and changes
+## Where will we end up?
+
+* by end of term you will be in this position where you can do this. You will
+    * know how to put up a basic website (hand coded)
+    * know how to understand how other websites work and make tweaks and changes
+
+## What's the style of the course?
 
 * not teach you everything
     * that's up to you
